@@ -63,8 +63,16 @@
         "path": "./snippets/vuetify.json"
       },
       {
+        "language": "pug",
+        "path": "./snippets/vuetify.pug.json"
+      },
+      {
+        "language": "vue-pug",
+        "path": "./snippets/vuetify.pug.json"
+      },
+      {
         "language": "jade",
-        "path": "./snippets/vuetify.json"
+        "path": "./snippets/vuetify.pug.json"
       }
     ]
   }
